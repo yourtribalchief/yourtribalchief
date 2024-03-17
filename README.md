@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @yourtribalchief
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning frontend frameworks
+- 💞️ I’m looking to collaborate on any open frontend projects
+- 📫 Reach me at morganbeemapepa@gmail.com
+- ⚡ Fun fact: Greatness follows me 😂
